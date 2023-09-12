@@ -1,10 +1,8 @@
-import com.progdigy.permutation.HeapAlgorithm;
 import com.progdigy.permutation.Permutation;
 import com.progdigy.permutation.RotateAlgorithm;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import java.util.Arrays;
 import java.util.HashSet;
 
 public class RotateTest {

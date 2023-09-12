@@ -1,6 +1,5 @@
 package com.progdigy.permutation;
 
-import javax.swing.plaf.synth.SynthTextAreaUI;
 import java.util.Arrays;
 
 public abstract class Permutation extends Factoradic {

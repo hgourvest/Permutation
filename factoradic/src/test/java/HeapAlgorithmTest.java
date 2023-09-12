@@ -1,5 +1,4 @@
 import com.progdigy.permutation.HeapAlgorithm;
-import com.progdigy.permutation.MirrorAlgorithm;
 import com.progdigy.permutation.Permutation;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
